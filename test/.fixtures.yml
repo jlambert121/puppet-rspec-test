@@ -1,6 +1,4 @@
 fixtures:
-#  repositories:
-#    common: gitolite@git.bufferfish.com:puppet/bufferfish-common.git
   symlinks:
     test: "#{source_dir}"
     common: "#{source_dir}/../common"
